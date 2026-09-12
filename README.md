@@ -1,6 +1,3 @@
-Aqui está o README.md completo para o projeto do Sistema de Gestão de Funcionários e Folha de Pagamento, formatado em Markdown e pronto para incluir no repositório do GitHub:
-
-Markdown
 # 💼 Sistema de Gestão de Funcionários e Folha de Pagamento
 
 Aplicação em **Java** desenvolvida para simular o gerenciamento de colaboradores e o cálculo de folha de pagamento em um ambiente corporativo. O projeto utiliza interface gráfica interativa via `JOptionPane` e aplica conceitos essenciais de Programação Orientada a Objetos (POO).
