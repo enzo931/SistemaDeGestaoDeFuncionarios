@@ -34,3 +34,24 @@ O sistema permite cadastrar e gerenciar diferentes cargos da empresa com regras 
 ### Pré-requisitos
 - JDK (Java Development Kit) 8 ou superior instalado.
 - Uma IDE Java (IntelliJ IDEA, Eclipse, VS Code) ou terminal configurado.
+
+### Passo a passo
+1. **Clone este repositório:**
+   ```bash
+   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+2. **Navegue até o diretório do projeto:**
+
+cd NOME_DO_REPOSITORIO
+
+3. **Compile os arquivos Java:**
+
+javac -d bin src/org/example/*.java
+
+4. **Execute a aplicação:**
+
+java -cp bin org.example.Main
+
+## 🖥️ Tecnologias Utilizadas
+
+Linguagem: Java
+Interface Gráfica: Java Swing (javax.swing.JOptionPane)
