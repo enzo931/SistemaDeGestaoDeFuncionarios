@@ -37,19 +37,20 @@ O sistema permite cadastrar e gerenciar diferentes cargos da empresa com regras 
 
 ### Passo a passo
 1. **Clone este repositório:**
-   ```bash
+   ```
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-2. **Navegue até o diretório do projeto:**
 
-cd NOME_DO_REPOSITORIO
+2. **Navegue até o diretório do projeto:**
+   ```
+   cd NOME_DO_REPOSITORIO
 
 3. **Compile os arquivos Java:**
-
-javac -d bin src/org/example/*.java
-
+   ```
+   javac -d bin src/org/example/*.java
+   
 4. **Execute a aplicação:**
-
-java -cp bin org.example.Main
+   ```
+   java -cp bin org.example.Main
 
 ## 🖥️ Tecnologias Utilizadas
 
